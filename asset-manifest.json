@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-order-pizza-project/static/css/main.0afd24db.css",
+    "main.js": "/my-order-pizza-project/static/js/main.799347f4.js",
+    "static/media/Гавайская.png": "/my-order-pizza-project/static/media/Гавайская.7120bb44cadad8acaabf.png",
+    "static/media/pizzaMain.webp": "/my-order-pizza-project/static/media/pizzaMain.1dea8f91bba6d24da28e.webp",
+    "static/media/Мексиканская.jpg": "/my-order-pizza-project/static/media/Мексиканская.08b9dd85d6f14e29d564.jpg",
+    "static/media/Пепперони Фреш.jpeg": "/my-order-pizza-project/static/media/Пепперони Фреш.13d7e6e01c197ce42491.jpeg",
+    "static/media/Маргарита.jpeg": "/my-order-pizza-project/static/media/Маргарита.9fd24d2491f1efc08fe6.jpeg",
+    "static/media/Мясная.jpeg": "/my-order-pizza-project/static/media/Мясная.045cad0918f31d7d528f.jpeg",
+    "static/media/Аррива.jpeg": "/my-order-pizza-project/static/media/Аррива.a3111db9f2fc3b5a6c02.jpeg",
+    "static/media/Деревенская.jpeg": "/my-order-pizza-project/static/media/Деревенская.c6ae8b887ea9c87d54af.jpeg",
+    "static/media/Двойная пепперони.jpeg": "/my-order-pizza-project/static/media/Двойная пепперони.ac6c5808f2fe39219e58.jpeg",
+    "static/media/Додо.jpeg": "/my-order-pizza-project/static/media/Додо.3421ae05c0b4a19f05b8.jpeg",
+    "static/media/Цыпленок ранч.jpeg": "/my-order-pizza-project/static/media/Цыпленок ранч.fd20eee8a64bafbbaa40.jpeg",
+    "static/media/Песто.jpeg": "/my-order-pizza-project/static/media/Песто.fc69d228ed9639611be2.jpeg",
+    "static/media/Сырный цыпленок.jpeg": "/my-order-pizza-project/static/media/Сырный цыпленок.2e45558119c27c1f5851.jpeg",
+    "static/media/logoDodoPizza.jpeg": "/my-order-pizza-project/static/media/logoDodoPizza.9ae614e0bfecef27835d.jpeg",
+    "index.html": "/my-order-pizza-project/index.html",
+    "main.0afd24db.css.map": "/my-order-pizza-project/static/css/main.0afd24db.css.map",
+    "main.799347f4.js.map": "/my-order-pizza-project/static/js/main.799347f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0afd24db.css",
+    "static/js/main.799347f4.js"
+  ]
+}
